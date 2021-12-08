@@ -11,3 +11,5 @@ boutons id="bouton1-3"
 bouton abandonner id="bouton_abandon"
 
 div id="page_x"
+
+Quand un bouton "retour" est présent, toujours lui assigner l'id "bouton3"
