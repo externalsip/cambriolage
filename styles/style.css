@@ -1,0 +1,1016 @@
+#texte {
+
+    font-family: VCR OSD Mono;
+
+    font-weight:bold;
+
+    background-color:black;
+
+    color: white;
+
+    border: 5px solid white;
+
+    width:1890px;
+    
+    height: 100px;
+
+    padding: 10px;
+    
+    position: absolute;
+
+    right: 0px;
+
+    bottom: 0px;
+
+}
+
+/*text box trouvée sur chaque page*/
+
+body{
+
+    background-color: black;
+
+}
+
+/*background noir derrière l'image (va peut être devenir une image si Quoc Huy en crée une)*/
+
+
+.page_1{
+ 
+    position:relative;
+        
+    background-image:url("../images/arriere_plan_base.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 200px auto 0 auto;
+
+
+}
+
+/*page dans la base avant choix*/
+
+.page_2{
+ 
+    position:relative;
+        
+    background-image:url("../images/arriere_plan_base.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 200px auto 0 auto;
+
+}
+
+/*page dans la base après choix*/
+
+.page_3{
+ 
+    position:relative;
+        
+    background-image:url("../images/maison_ext.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+/*Page devant la maison*/
+
+.page_4{
+ 
+    position:relative;
+        
+    background-image:url("../images/porte_closeup.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+/*Page de porte*/
+
+.page_5{
+ 
+    position:relative;
+        
+    background-image:url("../images/fenetre_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+/*page fenêtre non-brisée*/
+
+.page_6{
+ 
+    position:relative;
+        
+    background-image:url("../images/fenetre_briser_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+/*page fenêtre brisée*/
+
+.page_crochetage{
+
+    position:relative;
+        
+    background-image:url("../images/poigneeporte_closeup.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 200px auto 0 auto;
+
+
+
+
+}
+
+
+
+.page_prison{
+ 
+    position:relative;
+        
+    background-image:url("../images/prison_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+
+
+
+.page_abandon{
+ 
+    position:relative;
+        
+    background-image:url("../images/abandonner_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+
+.page_hotage{
+ 
+    position:relative;
+        
+    background-image:url("../images/assomer_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_capturé{
+
+    position:relative;
+        
+    background-image:url("../images/hotage_1_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+
+
+
+.page_meurtre{
+ 
+    position:relative;
+        
+    background-image:url("../images/mort_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_brisee{
+ 
+    position:relative;
+        
+    background-image:url("../images/fenetre_briser_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+
+#bouton1{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    left: 600px;
+
+}
+
+#bouton2{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    right: 600px;
+
+}
+
+#bouton3{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    right: 5px;
+
+}
+
+#bouton_abandon{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    left: 5px;
+
+
+}
+
+/*boutons 1 à 3 plus abandon*/
+
+
+.trombones1{
+
+    
+    position: absolute;
+
+    left: 750px;
+
+    bottom: 250px;
+
+    border: 5px solid rgb(255 241 58);
+
+
+}
+
+
+
+.pistolet1{
+
+    position:absolute;
+
+    right: 150px;
+
+    bottom: 200px;
+
+    border: 5px solid rgb(255 241 58);
+
+}
+
+.pied_de_biche1{
+
+position:absolute;
+
+left: 300px;
+
+top: 150px;
+
+border: 5px solid rgb(255 241 58);
+
+}
+
+.trombones2{
+
+    
+    position: absolute;
+
+    left: 750px;
+
+    bottom: 250px;
+
+}
+
+
+
+.pistolet2{
+
+    position:absolute;
+
+    right: 150px;
+
+    bottom: 200px;
+
+}
+
+.pied_de_biche2{
+
+position:absolute;
+
+left: 300px;
+
+top: 150px;
+
+}
+
+/* images des premières pages */
+
+
+
+/*début de mon enfer personel*/
+
+#texte_instructions{
+
+    font-family: VCR OSD mono;
+    
+    font-size: 16px;
+    
+    position: absolute;
+    
+    left: 1350px;
+    
+    top: 400px;
+    
+    
+}
+
+ #instructions{
+
+    position: absolute;
+             
+    left: 1300px;
+             
+    top: 200px;
+             
+}
+
+/*instructions pour mini-jeu*/
+
+.boutons{
+
+    outline: solid;
+        
+    color: yellow;
+        
+}    
+
+#crochet1_1{
+
+    position: absolute;
+    
+    left: 920px;
+    
+    top: 520px;
+    
+    }
+    
+#crochet2_1{
+    
+    position: absolute;
+         
+    left: 1080px;
+         
+    top: 490px;
+         
+}
+    
+#crochet3_1{
+    
+    position: absolute;
+         
+    left: 840px;
+         
+    top: 470px;
+         
+}
+    
+#crochet4_1{
+    
+    position: absolute;
+         
+    left: 1000px;
+         
+    top: 440px;
+         
+}
+    
+#crochet5_1{
+    
+    position: absolute;
+         
+    left: 760px;
+         
+    top: 390px;
+         
+}
+    
+#trombone_1{
+    
+    position: absolute;
+         
+    left: 40px;
+    
+    top: 570px;
+         
+}
+
+.serrure_1{
+
+    position: absolute;
+    
+    left: 670px;
+    
+    top: 80px;
+         
+    }
+
+    /*Première étape*/
+
+#crochet1_2{
+
+    position: absolute;
+        
+    left: 920px;
+    
+    top: 460px;
+        
+}
+        
+#crochet2_2{
+        
+    position: absolute;
+             
+    left: 1080px;
+             
+    top: 490px;
+             
+}
+        
+#crochet3_2{
+        
+    position: absolute;
+             
+    left: 840px;
+             
+    top: 470px;
+             
+}
+        
+#crochet4_2{
+        
+    position: absolute;
+             
+    left: 1000px;
+             
+    top: 440px;
+             
+}
+        
+#crochet5_2{
+        
+    position: absolute;
+             
+    left: 760px;
+             
+    top: 390px;
+             
+}
+        
+#trombone_2{
+        
+    position: absolute;
+             
+    left: 235px;
+    
+         top: 585px;
+         
+        transform: rotate(-5deg)
+
+             
+}
+    .serrure_2{
+    
+    position: absolute;
+        
+    left: 670px;
+        
+    top: 80px;
+             
+}
+
+/*deuxième étape*/
+
+
+#crochet1_3{
+
+    position: absolute;
+        
+    left: 920px;
+    
+    top: 460px;
+        
+}
+        
+#crochet2_3{
+        
+    position: absolute;
+             
+    left: 1080px;
+         
+    top: 430px;
+             
+}
+        
+#crochet3_3{
+        
+    position: absolute;
+             
+    left: 840px;
+             
+    top: 470px;
+             
+}
+        
+#crochet4_3{
+        
+    position: absolute;
+             
+    left: 1000px;
+             
+    top: 440px;
+             
+}
+        
+#crochet5_3{
+        
+    position: absolute;
+             
+    left: 760px;
+             
+    top: 390px;
+             
+}
+        
+#trombone_3{
+        
+    position: absolute;
+         
+         left: 395px;
+    
+         top: 565px;
+         
+        transform: rotate(-5deg)
+
+             
+}
+    .serrure_3{
+    
+    position: absolute;
+        
+    left: 670px;
+        
+    top: 80px;
+             
+}
+
+/*troisième étape*/
+
+#crochet1_4{
+
+    position: absolute;
+        
+    left: 920px;
+    
+    top: 460px;
+        
+}
+        
+#crochet2_4{
+        
+    position: absolute;
+             
+    left: 1080px;
+         
+    top: 430px;
+             
+}
+        
+#crochet3_4{
+        
+    position: absolute;
+             
+    left: 840px;
+             
+    top: 410px;
+             
+}
+        
+#crochet4_4{
+        
+    position: absolute;
+             
+    left: 1000px;
+             
+    top: 440px;
+             
+}
+        
+#crochet5_4{
+        
+    position: absolute;
+             
+    left: 760px;
+             
+    top: 390px;
+             
+}
+        
+#trombone_4{
+         
+    position: absolute;
+         
+    left: 155px;
+
+    top: 582px;
+    
+   transform: rotate(-10deg)
+
+             
+}
+    .serrure_4{
+    
+    position: absolute;
+        
+    left: 670px;
+        
+    top: 80px;
+             
+}
+
+/*quatrième étape*/
+
+#crochet1_5{
+
+    position: absolute;
+        
+    left: 920px;
+    
+    top: 460px;
+        
+}
+        
+#crochet2_5{
+        
+    position: absolute;
+             
+    left: 1080px;
+         
+    top: 430px;
+             
+}
+        
+#crochet3_5{
+        
+    position: absolute;
+             
+    left: 840px;
+             
+    top: 410px;
+             
+}
+        
+#crochet4_5{
+        
+    position: absolute;
+             
+    left: 1000px;
+             
+    top: 380px;
+             
+}
+        
+#crochet5_5{
+        
+    position: absolute;
+             
+    left: 760px;
+             
+    top: 380px;
+             
+}
+        
+#trombone_5{
+         
+    position: absolute;
+         
+    left: 315px;
+    
+    top: 555px;
+         
+    transform: rotate(-6deg)
+
+             
+}
+    .serrure_5{
+    
+    position: absolute;
+        
+    left: 670px;
+        
+    top: 80px;
+             
+}
+
+/*cinquième étape*/
+
+#crochet1_6{
+
+    position: absolute;
+        
+    left: 920px;
+    
+    top: 460px;
+        
+}
+        
+#crochet2_6{
+        
+    position: absolute;
+             
+    left: 1080px;
+         
+    top: 430px;
+             
+}
+        
+#crochet3_6{
+        
+    position: absolute;
+             
+    left: 840px;
+             
+    top: 410px;
+             
+}
+        
+#crochet4_6{
+        
+    position: absolute;
+             
+    left: 1000px;
+             
+    top: 380px;
+             
+}
+        
+#crochet5_6{
+        
+    position: absolute;
+         
+    left: 760px;
+         
+    top: 330px;
+             
+}
+        
+#trombone_6{
+         
+    position: absolute;
+         
+    left: 84px;
+
+    top: 610px;
+    
+   transform: rotate(-15deg)
+             
+}
+    .serrure_6{
+    
+    position: absolute;
+        
+    left: 670px;
+        
+    top: 80px;
+             
+}
+
+/*dernière étape*/
+
+/*fin de mon enfer personel*/
