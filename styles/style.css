@@ -190,6 +190,294 @@ body{
 
 }
 
+.page_7{
+ 
+    position:relative;
+        
+    background-image:url("../images/entree_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_chambre{
+ 
+    position:relative;
+        
+    background-image:url("../images/chambre_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_salon{
+ 
+    position:relative;
+        
+    background-image:url("../images/salon_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_salle_de_bain{
+ 
+    position:relative;
+        
+    background-image:url("../images/mort-salle-de-bain_1920x1080.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_coffre_fort{
+ 
+    position:relative;
+        
+    background-image:url("../images/coffre-fort.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_souliers{
+ 
+    position:relative;
+        
+    background-image:url("../images/souliers.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_bijoux{
+ 
+    position:relative;
+        
+    background-image:url("../images/bijou.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_television{
+ 
+    position:relative;
+        
+    background-image:url("../images/tv.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_pawn_coffre_fort{
+ 
+    position:relative;
+        
+    background-image:url("../images/pawn_coffre_fort.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_pawn_souliers{
+ 
+    position:relative;
+        
+    background-image:url("../images/pawn_souliers.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_pawn_bijoux{
+ 
+    position:relative;
+        
+    background-image:url("../images/pawn_bijoux.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
+.page_pawn_tv{
+ 
+    position:relative;
+        
+    background-image:url("../images/pawn_tv.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 1920px 1080px;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-color: black;
+
+    width: 1920px;
+        
+    height: 1080px;
+
+    margin: 0 auto;
+
+}
+
 /*page fenêtre brisée*/
 
 .page_crochetage{
